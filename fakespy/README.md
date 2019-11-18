@@ -23,7 +23,6 @@
 
 ## References
 
--　[FakeSpy Android Information-Stealing Malware Targets Japanese and Korean-Speaking Users](https://blog.trendmicro.com/trendlabs-security-intelligence/fakespy-android-information-stealing-malware-targets-japanese-and-korean-speaking-users/)
-
+- [FakeSpy Android Information-Stealing Malware Targets Japanese and Korean-Speaking Users](https://blog.trendmicro.com/trendlabs-security-intelligence/fakespy-android-information-stealing-malware-targets-japanese-and-korean-speaking-users/)
 - [FakeSpy Comes Back. New Wave Hits Japan](https://www.fortinet.com/blog/threat-research/fakespy-comes-back--new-wave-hits-japan.html)
 - [The Recent FakeSpy's Activity in Japan](https://www.slideshare.net/apnic/the-recent-fakespys-activity-in-japan)
