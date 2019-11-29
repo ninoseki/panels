@@ -2,6 +2,8 @@
 
 ## Apple version
 
+![img](./apple.png)
+
 ```json
 {
   "http": {
@@ -24,6 +26,8 @@
 - [urlscan.io search results](https://urlscan.io/search/#hash%3A0e06d02dab03e8085b18ebedb0f54dc68508c40c5d1b8c6e3e8da98e3d3b6649)
 
 ## Amazon version
+
+![img](./amazon.png)
 
 ```json
 {
