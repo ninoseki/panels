@@ -1,5 +1,7 @@
 # FakeSpy
 
+![img](./panel.png)
+
 ```json
 {
   "http": {
